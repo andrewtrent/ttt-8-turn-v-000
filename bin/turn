@@ -1,1 +1,22 @@
 #!/usr/bin/env ruby
+
+def display_board(board)
+
+end 
+
+def input_to_index(input)
+  input -= 1
+end 
+
+def valid_move?(move_pos)
+
+end 
+
+def move(board, move_pos, character)
+
+end 
+
+def turn()
+  
+end 
+
